@@ -1,0 +1,2 @@
+# -bootloader--Kernel
+The Bootloader  loading the kernel from the disk to the desired address, asking the user for parameters and saving them to memory, putting the processor in protected mode. The bootloader is written under gcc, AT&amp;T syntax, development lead in linux. kernel: reading data stored by the bootloader, setting and enabling interrupts, switching to interactive mode and working with the interface, implementing nsconv, posixtime and wintime commands, working with the interface.
